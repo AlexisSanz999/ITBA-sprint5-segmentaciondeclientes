@@ -1,0 +1,5 @@
+* Excelente el uso del template para generar el HTML
+
+* Excelente el uso del schema para validar el json
+
+* Bien resuelto el trabajo
